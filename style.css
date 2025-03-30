@@ -9,6 +9,7 @@ header{
 }
 header img{
     z-index:0;
+    height:100%;
 }
 header h1{
     z-index:999;
